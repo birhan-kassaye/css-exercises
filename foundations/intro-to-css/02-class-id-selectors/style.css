@@ -1,18 +1,18 @@
-.myclass1, .myclass2, .myclass3 {
+.odd {
     background-color: rgb(255, 192, 203);
     font-size: Verdana "DejaVu sans" sans-serif;
 }
 
-#myid1 {
+#blue-text {
     color: rgb(0, 0, 139);
     font-size: 36px;
 }
 
-.myclass2 {
+.font-size {
     font-size: 24px;
 }
 
-#myid2 {
+#light-green {
     background-color: rgb(144, 238, 144);
     font-size: 24px;
     font-weight: bold;
